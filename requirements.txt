@@ -4,3 +4,5 @@ sqlalchemy
 gspread
 gspread_dataframe
 oauth2client
+matplotlib
+matplotlib.pyplot
